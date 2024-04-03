@@ -1,0 +1,13 @@
+.sidebar {
+    height: 100vh;
+    background-color: rgb(88, 88, 88);
+    width: 200px;
+}
+
+.hamburger {
+    margin-top: 9px;
+    margin-left: 5px;
+    cursor: pointer;
+    height: 30px;
+    width: 50px;
+}
